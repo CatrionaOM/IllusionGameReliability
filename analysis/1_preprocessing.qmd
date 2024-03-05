@@ -1,5 +1,7 @@
 ---
-title: "1) Preprocessing"
+title: "Illusion Game Reliability"
+subtitle: "Preprocessing"
+author: "Dominique Makowski et al."
 format: html
 editor: visual
 ---
